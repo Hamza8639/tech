@@ -97,7 +97,7 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = hamza
+CorrectUsername = 'hamza'
 CorrectPassword = hamza
 loop = 'true'
 while (loop == 'true'):
